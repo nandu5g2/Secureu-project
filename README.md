@@ -83,12 +83,11 @@ This script demonstrates interaction with the  Windows Registry to perform syste
 
 
 ## Examples
-<img src="output.png" width="60%" height="40%" />
+<img src="output.png" width="50%" height="50%" />
 <img src="Usb block.png" width="50%" height="50%" />
-![Usb Block](Usb block.png)
-![Bluetooth Block](Bluetooth block.png)
-![Facebook.com block](nandu5g2/Secureu-project/facebook block.png)
-![cmd](<Usb block-1.png>)
+<img src="Bluetooth block.png" width="50%" height="50%" />
+<img src="facebook block.png" width="50%" height="50%" />
+<img src="cmd block.png" width="50%" height="50%" />
 
 
 
