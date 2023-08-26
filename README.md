@@ -83,8 +83,7 @@ This script demonstrates interaction with the  Windows Registry to perform syste
 
 
 ## Examples
-![][output](output.png | width=100)
-<img src="output.png" width="100" height="100" />
+<img src="output.png" width="100" />
 ![Usb Block](Usb block.png)
 ![Bluetooth Block](Bluetooth block.png)
 ![Facebook.com block](nandu5g2/Secureu-project/facebook block.png)
