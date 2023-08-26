@@ -86,7 +86,7 @@ This script demonstrates interaction with the  Windows Registry to perform syste
 ![output](output.png)
 ![Usb Block](Usb block.png)
 ![Bluetooth Block](Bluetooth block.png)
-![Facebook.com block]()
+![Facebook.com block](nandu5g2/Secureu-project/facebook block.png)
 ![Cmd Block](cmd block.png)
 
 
